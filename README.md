@@ -1,9 +1,12 @@
 ## Hi there 👋 It's me Rakesh
 
 Full-Stack Software Engineer @ Invictus Data (Viome) | React.js · Next.js · TypeScript · Node.js · Strapi · Shopify
-<img align="right" width="260" height="176" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNwZ2p4eXZseTg4d3dlcm03OWl6ZHV1a3RhejNmdW5wMTdmaDZrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
-<br><br>
+<p align="center">
+  <img width="260" height="176" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNwZ2p4eXZseTg4d3dlcm03OWl6ZHV1a3RhejNmdW5wMTdmaDZrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
+</p>
+
+
 - 💼 Currently building the **Viome** e-commerce storefront (Next.js, React, TypeScript) with Strapi CMS & Shopify Storefront API integration
 - 🔭 Here's my [portfolio](https://rakesh-sp-portfolio.netlify.app/)
 - 🌱 I'm currently mastering DSA — ranked 8th on GeeksForGeeks, 400+ problems solved
