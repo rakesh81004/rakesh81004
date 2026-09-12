@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Rakesh
 
 Full-Stack Software Engineer @ Invictus Data (Viome) | React.js · Next.js · TypeScript · Node.js · Strapi · Shopify
-<img align="right" width="370" height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNwZ2p4eXZseTg4d3dlcm03OWl6ZHV1a3RhejNmdW5wMTdmaDZrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" width="260" height="176" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNwZ2p4eXZseTg4d3dlcm03OWl6ZHV1a3RhejNmdW5wMTdmaDZrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
 <br><br>
 - 💼 Currently building the **Viome** e-commerce storefront (Next.js, React, TypeScript) with Strapi CMS & Shopify Storefront API integration
@@ -13,8 +13,8 @@ Full-Stack Software Engineer @ Invictus Data (Viome) | React.js · Next.js · Ty
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white%27" />](https://x.com/RakeshSP626774) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rakesh-sp-37863b253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 😄 Pronouns: Rakhii
-- ⚡ Intresting fact: I'm a Filmmaker and also own a channel named 'Rakee Studios'.
-- [<img src="https://img.shields.io/badge/YouTube-Rakee%20Studios-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCc7GHMTh27dgAGDy5xbxXKA)
+- ⚡ Interesting Fact: I'm a Filmmaker and also own a channel named 'Rakee Studios'.
+[<img src="https://img.shields.io/badge/YouTube-Rakee%20Studios-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCc7GHMTh27dgAGDy5xbxXKA)
 
 <br clear="both">
 
