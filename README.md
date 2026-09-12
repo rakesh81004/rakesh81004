@@ -6,9 +6,9 @@ Full-Stack Software Engineer @ Invictus Data (Viome) | React.js · Next.js · Ty
 <br><br>
 - 💼 Currently building the **Viome** e-commerce storefront (Next.js, React, TypeScript) with Strapi CMS & Shopify Storefront API integration
 - 🔭 Here's my [portfolio](https://rakesh-sp-portfolio.netlify.app/)
-- 🌱 I'm currently learning DSA — ranked 8th on GeeksForGeeks, 400+ problems solved
+- 🌱 I'm currently mastering DSA — ranked 8th on GeeksForGeeks, 400+ problems solved
 - 👯 I'm looking to collaborate with UI Designers
-- 🤔 I'm looking for help with Placements Series
+- 🤔 I'm looking forward to connect with talented personality
 - 💬 Ask me about React.js, Next.js, TypeScript, Node.js, Strapi, Shopify, and full-stack development
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white%27" />](https://x.com/RakeshSP626774) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rakesh-sp-37863b253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
